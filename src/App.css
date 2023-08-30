@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #23252c;
+	font-family: Inter, sans-serif;
+	color: #fff;
+	height: 100vh;
+}
+
+.card {
+	width: 550px;
+	height: 868px;
+	top: 53px;
+	left: 65px;
+	padding: 44px 117px 44px 116px;
+	border-radius: 10px;
+	background-color: #1a1b21;
+}
+
+.picture {
+	width: 317px;
+	height: 317px;
+	top: 44px;
+	left: 116px;
+	border-radius: 10px 10px 0px 0px;
+	object-fit: cover;
+}
+
+.name {
+	font-family: Inter;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 30px;
+	letter-spacing: 0em;
+	text-align: center;
+}
+
+.profession {
+	padding: 8px;
+	font-family: Inter;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 15px;
+	letter-spacing: 0em;
+	text-align: center;
+	color: #f3bf99;
+}
+
+.website {
+	font-family: Inter;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 15px;
+	letter-spacing: 0em;
+	text-align: center;
+}
+
+.email {
+	width: 115px;
+	height: 34px;
+	top: 468px;
+	left: 151px;
+	border-radius: 6px;
+	border: 1px solid #000;
+	padding: 9px 13px 9px 11px;
+	gap: 8px;
+	color: #374151;
+}
+.linkedin {
+	width: 115px;
+	height: 34px;
+	top: 468px;
+	left: 283px;
+	border-radius: 6px;
+	padding: 9px 13px 9px 11px;
+	gap: 8px;
+	background-color: #5093e2;
+}
