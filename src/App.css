@@ -15,15 +15,16 @@ body {
 }
 
 .card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 	position: relative;
-	width: 550px;
+	width: 100%;
 	height: 868px;
-	top: 53px;
+	top: 36px;
 	left: 65px;
-	padding: 44px 117px 44px 116px;
 	border-radius: 10px;
 	background-color: #1a1b21;
-	background-color: red;
 }
 
 .picture {
@@ -42,6 +43,7 @@ body {
 	line-height: 30px;
 	letter-spacing: 0em;
 	text-align: center;
+	padding-top: 25px;
 }
 
 .profession {
@@ -107,7 +109,6 @@ body {
 .about {
 	width: 243px;
 	height: 21px;
-	top: 535px;
 	left: 152px;
 	font-family: Inter;
 	font-size: 16px;
@@ -116,8 +117,22 @@ body {
 	letter-spacing: 0em;
 	text-align: left;
 	margin-top: 33px;
+	top: 0;
 }
-
+.interests {
+	width: 243px;
+	height: 21px;
+	top: 649px;
+	left: 152px;
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: #f5f5f5;
+	margin-top: 30px;
+}
 .me {
 	width: 247px;
 	height: 61px;
@@ -131,21 +146,6 @@ body {
 	text-align: left;
 	color: #dcdcdc;
 	padding-top: 5px;
-}
-
-.interests {
-	width: 243px;
-	height: 21px;
-	top: 649px;
-	left: 152px;
-	font-family: Inter;
-	font-size: 16px;
-	font-weight: 700;
-	line-height: 24px;
-	letter-spacing: 0em;
-	text-align: left;
-	color: #f5f5f5;
-	margin-top: 5px;
 }
 
 .info {
@@ -167,17 +167,20 @@ body {
 	display: flex;
 	justify-content: space-around;
 	width: 100%;
-	height: 64px;
+	height: 80px;
 	border-radius: 0px 0px 10px 10px;
 	background-color: #161619;
 	position: absolute;
 	bottom: 0;
+	left: 0;
 }
 .footer-icons {
 	display: flex;
 	align-items: center;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	width: 100%;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 .twitter,
@@ -187,4 +190,10 @@ body {
 	width: 25px;
 	height: 25px;
 	color: #918e9b;
+}
+.name,
+.profession,
+.website {
+	text-align: center;
+	margin: 0;
 }
