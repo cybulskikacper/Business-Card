@@ -163,46 +163,27 @@ body {
 }
 
 .footer {
-	width: 317px;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
 	height: 64px;
-	top: 760px;
-	left: 116px;
 	border-radius: 0px 0px 10px 10px;
 	background-color: #161619;
+	position: absolute;
+	bottom: 0;
 }
-
 .footer-icons {
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
-}
-.twitter {
-	width: 25px;
-	height: 25px;
-	top: 779px;
-	left: 189px;
-	color: #918e9b;
+	justify-content: space-around;
+	width: 100%;
 }
 
-.facebook {
-	width: 25px;
-	height: 25px;
-	top: 779px;
-	left: 238px;
-	color: #918e9b;
-}
-.instagram {
-	width: 25px;
-	height: 25px;
-	top: 779px;
-	left: 287px;
-	color: #918e9b;
-}
-
+.twitter,
+.facebook,
+.instagram,
 .github {
 	width: 25px;
 	height: 25px;
-	top: 780px;
-	left: 336px;
 	color: #918e9b;
 }
