@@ -4,7 +4,7 @@
 
 My first self-made project in React.js  
 
-Figma's design was created by [Scrimba](https://scrimba.com/), as additional task for Scrimba Pro Members while React course made by [Bob Ziroll](https://twitter.com/bobziroll?s=20)
+Figma design was created by [Scrimba](https://scrimba.com/), as additional task for Scrimba Pro Members while React course made by [Bob Ziroll](https://twitter.com/bobziroll?s=20)
 
 ### Built with 
 
