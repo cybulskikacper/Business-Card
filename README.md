@@ -1,8 +1,14 @@
 # Digital Business Card 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [Live demo](https://cybulskikacper.github.io/NFT-card-component/)
 
-Currently, two official plugins are available:
+My first selfmade project in React.js  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Figma design was created by [Scrimba](https://scrimba.com/),as additional task for Scrimba Pro Members while React course made by [Bob Ziroll] (https://twitter.com/bobziroll?s=20)
+
+Built using:
+
+- HTML
+- CSS
+- React
+- Vite 
