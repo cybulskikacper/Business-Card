@@ -4,6 +4,10 @@
 
 My first self-made project in React.js  
 
+<img width="797" alt="ss" src="https://github.com/cybulskikacper/Business-Card/assets/121769239/9666dac3-694d-4f90-a1a0-05e23dc10194">
+
+
+
 Figma design was created by [Scrimba](https://scrimba.com/), as additional task for Scrimba Pro Members while React course made by [Bob Ziroll](https://twitter.com/bobziroll?s=20)
 
 ### Built with 
