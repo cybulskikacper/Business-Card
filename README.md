@@ -2,10 +2,12 @@
 
 ## [Live demo](https://cybulskikacper.github.io/NFT-card-component/)
 
-My first self-made project in React.js  
+### Screenshot
 
 <img width="797" alt="ss" src="https://github.com/cybulskikacper/Business-Card/assets/121769239/9666dac3-694d-4f90-a1a0-05e23dc10194">
 
+
+My first self-made project in React.js  
 
 
 Figma design was created by [Scrimba](https://scrimba.com/), as additional task for Scrimba Pro Members while React course made by [Bob Ziroll](https://twitter.com/bobziroll?s=20)
