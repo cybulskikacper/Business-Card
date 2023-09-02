@@ -15,10 +15,10 @@ function App() {
 
 				<div className="buttons">
 					<button className="email" aria-hidden="true">
-						Email
+						<p className="text1">Email</p>
 					</button>
 					<button className="linkedin" aria-hidden="true">
-						Linkedin
+						<p className="text2">LinkedIn</p>
 					</button>
 				</div>
 
