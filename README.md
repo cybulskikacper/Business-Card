@@ -2,6 +2,8 @@
 
 ## [Live demo](https://cybulskikacper.github.io/NFT-card-component/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c126999-2c0a-415d-8042-3365601ad520/deploy-status)](https://app.netlify.com/sites/subtle-sunflower-a55563/deploys)
+
 ### Screenshot
 
 <img width="797" alt="ss" src="https://github.com/cybulskikacper/Business-Card/assets/121769239/9666dac3-694d-4f90-a1a0-05e23dc10194">
