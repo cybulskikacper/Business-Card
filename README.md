@@ -1,6 +1,6 @@
 # Digital Business Card 
 
-## [Live demo](https://cybulskikacper.github.io/NFT-card-component/)
+## [Live demo](https://cybulskikacper.github.io/Business-Card/)
 
 
 ### Screenshot
