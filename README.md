@@ -5,8 +5,9 @@
 
 ### Screenshot
 
-<img width="797" alt="ss" src="https://github.com/cybulskikacper/Business-Card/assets/121769239/9666dac3-694d-4f90-a1a0-05e23dc10194">
+<img width="1000" alt="ss" src="https://github.com/cybulskikacper/Tenzies/assets/121769239/994eaa1a-556a-4825-8011-249ff272ed7e">
 
+(https://github.com/cybulskikacper/Tenzies/assets/121769239/994eaa1a-556a-4825-8011-249ff272ed7e)
 
 
 
